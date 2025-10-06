@@ -1,18 +1,32 @@
 # Olena Nesterets
 ## Contact information
-* email: nesteretsolena@gmail.com
-* phone: +48 453 264 633
-* telegram: mnauol
+* Email: nesteretsolena@gmail.com
+* Phone: +48 453 264 633
+* Telegram: mnauol
 * discord: mnauol
 ### Skills
-* Programming Languages: C++, JavaScript (basic)
-* Frameworks & Libraries: React
+* Programming languages: C++, JavaScript (basic)
+* Frameworks: React
 * Databases: PostgreSQL
-* Version Control: Git, GitHub
-* Development Tools: VS Code, Postman, Docker (basic)
+* Version control: Git, GitHub
+* Development tools: VS Code, Postman, Docker (basic)
+
+### Education
+#### 2023-now: Information Technology, Collegium da Vinci, Poznan
+
+Completed Courses: Data Structures & Algorithms, Advanced OOP, Database Systems, Software Engineering, UI/UX of Web Aplications
+
+### Work experience
+[Group website project fot TV series](https://zveri.netlify.app/)
+[Game "Bricking Fall"](https://leveaphan.itch.io/bricking-fall)
 
 ### About me 
 I am a third-year IT student passionate about software development. Although I don't have professional work experience yet, I actively work on educational projects and personal coding challenges to strengthen my skills. I am highly motivated, like to new knowledge, and ready to develop professionally in this sphere.
+
+
+### English language 
+Passed IELTS exam with overall band score 7.0 - C1
+Experience communicating in English during presentations, teamwork and real life communications.
 
 ### Code example 
 ``` 
