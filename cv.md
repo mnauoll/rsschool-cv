@@ -1,5 +1,5 @@
 # Olena Nesterets 
-![photo](images\cv_photo.JPG)
+![photo](images/cv_photo.JPG)
 ## Contact information
 * Email: nesteretsolena@gmail.com
 * Phone: +48 453 264 633
