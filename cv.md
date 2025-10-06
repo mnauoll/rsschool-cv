@@ -1,4 +1,5 @@
-# Olena Nesterets
+# Olena Nesterets 
+ ! [photo]("C:\Users\User\OneDrive\Desktop\RS school\cv_photo.JPG")
 ## Contact information
 * Email: nesteretsolena@gmail.com
 * Phone: +48 453 264 633
@@ -17,16 +18,15 @@
 Completed Courses: Data Structures & Algorithms, Advanced OOP, Database Systems, Software Engineering, UI/UX of Web Aplications
 
 ### Work experience
-[Group website project fot TV series](https://zveri.netlify.app/)
-[Game "Bricking Fall"](https://leveaphan.itch.io/bricking-fall)
+1. [Group website project fot TV series](https://zveri.netlify.app/)
+2. [Game "Bricking Fall"](https://leveaphan.itch.io/bricking-fall)
 
 ### About me 
 I am a third-year IT student passionate about software development. Although I don't have professional work experience yet, I actively work on educational projects and personal coding challenges to strengthen my skills. I am highly motivated, like to new knowledge, and ready to develop professionally in this sphere.
 
 
 ### English language 
-Passed IELTS exam with overall band score 7.0 - C1
-Experience communicating in English during presentations, teamwork and real life communications.
+Passed IELTS exam with overall band score **7.0 - C1**, experience communicating in English during presentations, teamwork and real life communications.
 
 ### Code example 
 ``` 
